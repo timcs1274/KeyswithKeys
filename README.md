@@ -1,9 +1,9 @@
 # [KeyswithKeys](Deployed link)
 
 ## Description
-This project
-
-
+Keys with keys is a mini keyboard app that allows anyone to compose a short song using their keyboard! Utilizing the technologies listed below, a user is able to create an account, compose a song, and access that song again in the future.
+### Technologies
+React.js | MySQL | Javascript | CSS | NPM 
 ## Function
 
 
