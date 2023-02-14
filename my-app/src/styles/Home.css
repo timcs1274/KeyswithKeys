@@ -17,3 +17,25 @@ body {
   border-radius: 20px;
   background: #141414;
 }
+
+.wrapper header {
+  display: flex;
+  color: #b9b1b1;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header h2 {
+  font-size: 1.6rem;
+}
+
+header .column {
+  display: flex;
+  align-items: center;
+}
+
+header span {
+  font-weight: 500;
+  margin-right: 15px;
+  font-size: 1.2rem;
+}
