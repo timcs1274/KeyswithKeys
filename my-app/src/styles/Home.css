@@ -39,3 +39,20 @@ header span {
   margin-right: 15px;
   font-size: 1.2rem;
 }
+
+.piano-keys .black {
+  z-index: 2;
+  width: 40px;
+  height: 120px;
+  margin: 0 -22px 0 -22px;
+  border-radius: 0 0 5px 5px;
+  background: linear-gradient(#333232, #000);
+}
+
+.piano-keys .white {
+  height: 200px;
+  width: 70px;
+  border-radius: 8px;
+  border: 1px solid #000;
+  background: linear-gradient(#fff 96%, #eee 4%);
+}
