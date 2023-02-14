@@ -5,7 +5,7 @@ function Home() {
   return (
     <div class="wrapper">
         <header>
-            <h2>Playable PIANO</h2>
+            <h2>Keys with Keys!</h2>
             <div class="column volume-slider">
                 <span>Volume</span><input type="range" min="0" max="1" value="0.5" step="any"/>
             </div>
