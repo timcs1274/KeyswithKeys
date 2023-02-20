@@ -1,7 +1,31 @@
 import React from 'react'
 import '../styles/Home.css'
+import '../assets/tunes/;.wav'
+import '../assets/tunes/a.wav'
+import '../assets/tunes/d.wav'
+import '../assets/tunes/e.wav'
+import '../assets/tunes/f.wav'
+import '../assets/tunes/g.wav'
+import '../assets/tunes/h.wav'
+import '../assets/tunes/j.wav'
+import '../assets/tunes/k.wav'
+import '../assets/tunes/l.wav'
+import '../assets/tunes/o.wav'
+import '../assets/tunes/p.wav'
+import '../assets/tunes/s.wav'
+import '../assets/tunes/t.wav'
+import '../assets/tunes/u.wav'
+import '../assets/tunes/w.wav'
+import '../assets/tunes/y.wav'
 
 function Home() {
+ 
+  // const pianoKeys = document.querySelectorAll(".piano-keys .key");
+  // const volumeSlider = document.querySelector(".volume-slider input");
+  // const keysCheckbox = document.querySelector(".keys-checkbox input");
+  
+ 
+  
   return (
     <div class="wrapper">
         <header>
@@ -34,7 +58,7 @@ function Home() {
             <li class="key white" data-key=";"><span>;</span></li>
       </ul>
     </div>
-        
+
   )
 }
 
